@@ -1,0 +1,7 @@
+{
+  "name": "RouteBuddy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
